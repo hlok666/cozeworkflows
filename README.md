@@ -14,10 +14,82 @@
 
 ## 🔧 使用说明
 
-1. **克隆仓库**
+本指南将引导您如何获取本项目的工作流文件，并将其成功导入到您的 [Coze](https://www.coze.cn/) 平台。
+
+---
+
+### 第一步：获取工作流文件
+
+我们提供两种方法来获取所有工作流文件，请根据您的熟悉程度选择其一。
+
+#### 方法一：使用 Git (推荐)
+
+如果您熟悉 Git，这是最快捷的方法。打开您的终端或命令行工具，运行以下命令克隆本仓库到本地：
+
 ```bash
 git clone https://github.com/your-username/ai-workflows.git
 ```
+
+#### 方法二：直接下载 ZIP 压缩包
+
+如果您不使用 Git，可以按照以下步骤操作：
+
+1.  在项目主页，点击绿色的 **`<> Code`** 按钮，然后在下拉菜单中选择 **`Download ZIP`**。
+
+    <p align="center">
+      <img src="images/834d9fba-1112-4ab0-8e98-9cd3c81f7735.png" alt="点击 Code 按钮后选择 Download ZIP" width="800">
+    </p>
+
+2.  下载完成后，找到这个 ZIP 文件并将其解压缩。
+
+    <p align="center">
+      <img src="images/0d01550f-7275-42ba-8b16-0fa2345e56de.png" alt="对下载的 ZIP 文件进行解压缩" width="800">
+    </p>
+
+3.  解压后，您会得到一个文件夹，里面包含了所有的工作流 `.json` 文件。
+
+    <p align="center">
+      <img src="images/56f778df-8658-4c16-8afe-b3b26182ee55.png" alt="解压缩后的文件夹内容" width="800">
+    </p>
+
+---
+
+### 第二步：在 Coze 中导入工作流
+
+获取文件后，请按照以下步骤将其导入 Coze：
+
+1.  登录 [Coze 官网](https://www.coze.cn/space)，进入您的个人空间，在左侧菜单中选择 **“资源库”**。
+
+    <p align="center">
+      <img src="images/934dc94d-870e-4ca0-b6da-9751e8b3b3ec.png" alt="进入 Coze 的资源库页面" width="800">
+    </p>
+
+2.  点击页面右上角的 **“导入”** 按钮。
+
+    <p align="center">
+      <img src="images/a51361f4-27ad-4e1c-98ac-f46932b56bc5.png" alt="点击右上角的导入按钮" width="800">
+    </p>
+
+3.  在弹出的窗口中，点击 **“上传文件”**，然后找到并选择您在第一步中获取的任意一个工作流 `.json` 文件。
+
+    <p align="center">
+      <img src="images/fa7ec3c3-8e34-40af-8fd3-2905933c0d0a.png" alt="在弹窗中点击上传文件" width="800">
+    </p>
+
+4.  文件上传后，确认信息无误，点击右下角的 **“导入”** 按钮。
+
+    <p align="center">
+      <img src="images/6110a73a-6eaa-40c4-aacb-7e01094e6c05.png" alt="确认信息并点击导入" width="800">
+    </p>
+
+5.  导入成功！您会在右下角看到成功提示，并且新的工作流已经出现在您的资源库列表中。
+
+    <p align="center">
+      <img src="images/7e31f996-31b2-4f75-9b2b-ca73dcf3ee48.png" alt="工作流成功导入到资源库列表" width="800">
+    </p>
+
+恭喜！您已成功导入工作流，现在可以在您的 Bot 中尽情使用它了。
+
 
 ## 🚀 工作流完整列表
 
