@@ -166,9 +166,7 @@ git clone https://github.com/fenggeliaoai/cozeworkflows.git
 | 70 | 视频 | `X96_Vlaohuangli_video` | 老黄历视频生成（钦天监同款） |
 | 71 | 视频 | `X97_Vgecishiping_video` | 一键生成歌词视频 |
 | 72 | 视频 | `X98_Vqingganzhiyu_video` | 一键生成不同背景的情感治愈小视频 |
-| 73 | 视频 | `X99_Vyuerhuiben_pro_video` | 育儿绘本动态视频 第一步 |
-| 74 | 视频 | `X100_Vyuerhuibenpro_step2video` | 育儿绘本动态视频 第二步 |
-| 75 | 视频 | `X101_Vyuerhuibenpro_step3video` | 育儿绘本动态视频 第三步 |
+| 73 | 视频 | `X99_Vyuerhuiben_pro_video` | 育儿绘本动态视频 |
 | 76 | 视频 | `X102_Vxiangsubianqingxi_step1` | 像素变清晰 第一步 |
 | 77 | 视频 | `X103_Vxiangsubianqingxi_step2` | 像素变清晰 第二步 |
 | 78 | 视频 | `X104_Vxiangsubianqingxi_step3` | 像素变清晰 第三步 |
@@ -179,12 +177,8 @@ git clone https://github.com/fenggeliaoai/cozeworkflows.git
 | 83 | 视频 | `X109_Vlaohuangli_pro_video` | 一键生成老黄历升级版 |
 | 84 | 视频 | `X110_Vdaojiaoxuanxue_video` | 一键生成道教玄学视频 |
 | 85 | 视频 | `X111_wordstudy_new_video` | 一键生成背单词视频（新版本） |
-| 86 | 视频 | `X112_Vxioarenguo_01_video` | 小人国第一步 |
-| 87 | 视频 | `X113_Vxioarenguo_02_video` | 小人国第二步 |
-| 88 | 视频 | `X114_Vxioarenguo_03_video` | 小人国第三步 |
-| 89 | 视频 | `X115_Vshicaizouxiu01_provideo` | 食材走秀01：生成,提交任务到等待狗 |
-| 90 | 视频 | `X116_Vshicaizouxiu02_provideo` | 食材走秀02：异步,循环查询任务状态 |
-| 91 | 视频 | `X117_Vshicaizouxiu03_provideo` | 食材走秀03：草稿合成 |
+| 86 | 视频 | `X112_Vxioarenguo_01_video` |小人国爆火短视频豆包图生视频 |
+| 89 | 视频 | `X115_Vshicaizouxiu01_provideo` | 食材走秀视频生成工作流 |
 | 92 | 视频 | `X118_Vyuer_sp_step1_58video` | 古风育儿经视频——豆包图生视频第一步 |
 | 93 | 视频 | `X119_Vyuer_sp_step2_58video` | 古风育儿经视频——豆包图生视频第二步 |
 | 94 | 视频 | `X120_Vyuer_sp_step3_58video` | 古风育儿经视频——豆包图生视频第三步 |
