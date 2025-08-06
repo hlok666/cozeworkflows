@@ -3,7 +3,7 @@
 
 ## 🌟 分享精神
 
-嗨，大家好！我是风哥（AI 博主，微信：fenggeliaoai），专注教你用 AI 构建高效工作流。之前在我的“Fengge风哥聊AI”公众号和视频中，我分享过从零搭建工作流的教程。今天，我开源这个“200哥工作流”仓库，帮助你一键处理 AI 任务。欢迎 star、fork 或加我微信讨论！
+嗨，大家好！我是风哥（AI 博主，微信：fenggeliaoai），专注教你用 AI 构建高效工作流。之前在我的“Fengge风哥聊AI”公众号和视频中，我分享过从零搭建工作流的教程。今天，我开源这个“200+工作流”仓库，帮助你一键处理 AI 任务。欢迎 star、fork 或加我微信讨论！
 
 
 
@@ -27,7 +27,7 @@
 如果您熟悉 Git，这是最快捷的方法。打开您的终端或命令行工具，运行以下命令克隆本仓库到本地：
 
 ```bash
-git clone https://github.com/your-username/ai-workflows.git
+git clone https://github.com/fenggeliaoai/cozeworkflows.git
 ```
 
 #### 方法二：直接下载 ZIP 压缩包
